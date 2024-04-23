@@ -1,4 +1,3 @@
-![image](https://github.com/ivandobarriocordon/PC5M3/assets/146997085/0475ddcd-4320-4152-9357-bb9fc99b0684)
 
 # DOCUMENTACIÓN TÉCNICA MODÚLO 3 CHECKPOINT 5
 
