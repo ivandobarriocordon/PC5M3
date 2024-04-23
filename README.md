@@ -14,13 +14,13 @@ A continuación pondre como sería el ejemplo del código:
 
 **(Aclaración esto es como se haría en el lenguaje de Python, entre un lenguaje o otro puede haber diferencias a la hora de declarar las variables y las funciones)**
 
-radio = 5
+`radio = 5`
 
-if radio > 0:
-    area = 3.14 * (radio ** 2)
-    print("El área del círculo es:", area)
-else:
-    print("Error: El radio debe ser mayor que cero.")
+`if radio > 0:`
+    `area = 3.14 * (radio ** 2)`
+    `print("El área del círculo es:", area)`
+`else:`
+    `print("Error: El radio debe ser mayor que cero.")`
     
 
 Tanto en Python como en otros lenguajes de programación, **las condicionales se utilizan para evaluar si una condición es verdadera o falsa y ejecutar diferentes bloques de código en función de cada resultado.**
